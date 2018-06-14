@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>kiahphotos</title>
+   	<link>.</link>
+        <generator>jAlbum 16</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="album/album.rss" title="album" thumbnail="album/thumbs/folderimage.jpg" thumbnailWidth="124" thumbnailHeight="30" />
+        <item>
+            <title>Commisioned Art Installment</title>
+            <link>slides/Gingerwood.jpg</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Gingerwood.jpg" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/Gingerwood.jpg" width="1000" height="677"/>
+            <guid isPermaLink="false">slides/Gingerwood.jpg</guid>
+        </item>
+        <item>
+            <title>Commisioned Art Installment</title>
+            <link>slides/Awakening.jpg</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Awakening.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Awakening.jpg" width="1000" height="667"/>
+            <guid isPermaLink="false">slides/Awakening.jpg</guid>
+        </item>
+        <item>
+            <title>Commisioned Art Installment</title>
+            <link>slides/splash.JPG</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/splash.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/splash.JPG" width="1000" height="1000"/>
+            <guid isPermaLink="false">slides/splash.JPG</guid>
+        </item>
+        <item>
+            <title>Little Things</title>
+            <link>slides/Little%20Things.jpg</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Little%20Things.jpg" width="89" height="124"/>
+            <media:content type="image/jpeg" url="slides/Little%20Things.jpg" width="774" height="1080"/>
+            <guid isPermaLink="false">slides/Little%20Things.jpg</guid>
+        </item>
+        <item>
+            <title>Transitions</title>
+            <link>slides/Transitions.jpg</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Transitions.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Transitions.jpg" width="1000" height="1000"/>
+            <guid isPermaLink="false">slides/Transitions.jpg</guid>
+        </item>
+        <item>
+            <title>Nights Tale</title>
+            <link>slides/Nights%20Tale.jpg</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description>EPSON scanner image</description>
+            <media:description type="html">EPSON scanner image</media:description>
+            <media:thumbnail url="thumbs/Nights%20Tale.jpg" width="90" height="124"/>
+            <media:content type="image/jpeg" url="slides/Nights%20Tale.jpg" width="785" height="1080"/>
+            <guid isPermaLink="false">slides/Nights%20Tale.jpg</guid>
+        </item>
+        <item>
+            <title>Kaliedescope</title>
+            <link>slides/Kaliedescope.jpg</link>
+            <pubDate>Thu, 14 Jun 2018 10:28:56 +0930</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Kaliedescope.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Kaliedescope.jpg" width="1000" height="1000"/>
+            <guid isPermaLink="false">slides/Kaliedescope.jpg</guid>
+        </item>
+    </channel>
+</rss>
