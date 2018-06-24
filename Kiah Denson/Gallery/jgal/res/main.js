@@ -38,7 +38,7 @@
 			'}},' +
 
 			'{"en":{' +
-			'"go_fullscreen":"Open fullscreen",' +
+			
 			'"previous_image":"Previous image",' +
 			'"next_image":"Next image",' +
 			'"start_slide_show":"Start slide show",' +
