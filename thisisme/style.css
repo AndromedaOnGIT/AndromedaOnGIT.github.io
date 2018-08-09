@@ -11,8 +11,8 @@ img {
 
 #box {
 	position: absolute;
-  	top: 50%;
-  	left: 70%;
+  	top: 100px;
+  	left: 100px;
 	width: 300px;
 	height: 300px;
 	z-index: 10;
