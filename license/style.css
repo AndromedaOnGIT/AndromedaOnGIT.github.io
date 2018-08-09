@@ -17,4 +17,5 @@ img {
 	height: 300px;
 	z-index: 10;
 	display: none;
+	background-color: rgba(211,16,20,0.50);
 }
