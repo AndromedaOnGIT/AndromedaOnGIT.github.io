@@ -13,7 +13,7 @@ Full Github profile - https://github.com/PatrickMitchellUI
 - https://github.com/PatrickMitchellUI/SpamBot
 
 #### Electron Rewrite of TwitchLeecher (WIP)
-https://github.com/PatrickMitchellUI/TwitchLeecher-Electron
+- https://github.com/PatrickMitchellUI/TwitchLeecher-Electron
 
 #### Exploration of the vulnerabilities of digital licences
 - https://github.com/PatrickMitchellUI/FAKE-ID-PROOF-OF-CONCEPT
